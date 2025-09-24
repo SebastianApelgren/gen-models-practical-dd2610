@@ -1,0 +1,35 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Virtual environments
+.env
+.venv
+env/
+venv/
+ENV/
+
+# Jupyter Notebook hidden config
+.jupyter/
+
+# Data and outputs (optional, keep if you don’t want large data in Git)
+*.csv
+*.tsv
+*.dat
+*.h5
+*.parquet
+*.pkl
+*.joblib
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# OS-specific
+.DS_Store
+Thumbs.db
