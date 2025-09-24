@@ -1,0 +1,7 @@
+tqdm
+matplotlib
+tensorflow-probability
+jax
+numpy
+torch
+torchvision
